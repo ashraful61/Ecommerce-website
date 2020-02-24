@@ -1,0 +1,37 @@
+.container{
+    margin-bottom: 70px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 7px 14px;
+    border: none;
+    border-radius: 10px;
+
+}
+.seeall-item{
+    color: orange;
+}
+.price{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    text-align: center;
+    background: white;
+}
+hr {
+    border: 4px solid orange;
+    border-radius: 5px;
+    width:10%;
+  }
+  .image-text{
+    text-align: center;
+    margin-top: 10px;
+  }
